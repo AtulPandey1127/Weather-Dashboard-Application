@@ -1,6 +1,8 @@
 # Weather-Dashboard-Application
 The Weather Dashboard is a feature-rich application that provides real-time weather information with an intuitive, responsive interface. It demonstrates advanced React patterns including custom hooks, context management, and component composition while maintaining clean, maintainable code structure
+
 Key Features
+
 City Weather Search: Search functionality for weather data across major global cities
 
 Current Weather Display: Comprehensive current conditions including temperature, humidity, and wind speed
